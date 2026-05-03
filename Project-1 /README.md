@@ -1,0 +1,1 @@
+📊 "A data analysis project that explores unemployment trends using real-world datasets. The workflow includes data preprocessing, handling missing values, and extracting time-based features. The project evaluates the impact of COVID-19 by comparing pre- and post-pandemic unemployment rates and visualizes yearly averages using Matplotlib to derive meaningful insights."
