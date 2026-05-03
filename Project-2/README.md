@@ -1,0 +1,1 @@
+🚀 "Developed a machine learning model to predict product sales using advertising data. Performed data preprocessing, exploratory analysis, and feature engineering to improve model accuracy. The project highlights the impact of advertising strategies on sales performance and showcases practical applications of data science in business forecasting."
