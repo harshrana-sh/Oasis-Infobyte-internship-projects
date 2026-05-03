@@ -1,0 +1,1 @@
+🚀 "Developed a data analysis project to study unemployment trends using real-world data. Performed data cleaning, feature extraction, and statistical analysis to compare unemployment rates before and after the COVID-19 pandemic. Created visualizations to effectively communicate trends and insights, demonstrating proficiency in Python, Pandas, and Matplotlib."
